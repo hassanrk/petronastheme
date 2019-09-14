@@ -1,0 +1,13 @@
+Package: petrotheme
+Title: PETRONAS-Themed Presentation on RMarkdown
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Hassan",
+           family = "Rahim Kamil",
+           role = c("aut", "cre"),
+           email = "rahimka2@illinois.edu",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Seamless PETRONAS-themed Presentation with ioslides and slidy on RMarkdown.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
